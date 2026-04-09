@@ -17,7 +17,7 @@
 - Used loop + condition for duplicate removal
 
 ## Tools Used
-- SQLite / MySQL
+- SQLite
 - Excel / Google Sheets
 - Python 3
 
